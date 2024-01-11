@@ -3,7 +3,10 @@
 A new Flutter project.
 
 ## Getting Started
-
+![avatar](/img/home.jpg)
+![avatar](/img/search.jpg)
+![avatar](/img/tickets.jpg)
+![avatar](/img/profile.jpg)
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
